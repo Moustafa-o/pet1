@@ -1,0 +1,76 @@
+
+
+body {
+  margin: auto;
+  width: 640px;
+  padding: 50px;
+  font-family: 'Lexend Deca', sans-serif;
+  color: #2E475D;
+  background-color: lightgrey;
+  background-image: url("https://images0.persgroep.net/rcs/vEtz-Iu4wXjqPOnq8s8qgEObdBM/diocontent/181447422/_fitwidth/763?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.8");
+  background-size: cover;
+       }
+
+p {color: beige;
+  text-align: center;
+  font-family: Monospace;
+  font-style: italic;
+  font-size: 20px;
+  font-weight: bolder;
+  width: 500px;
+  padding: 15px 20px;
+  border: 10px double darkblue;
+  box-sizing: border-box;
+  margin: 15px 20px;
+  border-radius: 5px;
+  }
+
+  p1 {color: darkblue;
+    text-align: center;
+    font-family: Monospace;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: bolder;
+    width: 500px;
+    padding: 15px 20px;
+    border: 10px hidden blue;
+    box-sizing: border-box;
+    margin: 15px 20px;
+    border-radius: 5px;
+    }
+
+.geenborder {
+  color: white;
+  font-style: italic;
+  font-size: 20px;
+  font-weight: normal;
+  width: 0px;
+  padding: 0px;
+  border: 0px solid;
+  margin: 0px;
+  border-radius: 0px;
+}
+h1, h2, h2, h3{
+  color: white;
+  font-family: monospace;
+  font-weight: bold;
+
+}
+a:link, a:visited {
+  background-color: black;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+tbody {
+  color:babyblue;
+}
+a:hover {
+  font-size: 20px;
+  font-family: monospace;
+}
+p a:visited {
+  color:black;
+}
